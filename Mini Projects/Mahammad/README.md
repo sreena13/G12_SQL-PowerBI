@@ -1,1 +1,0 @@
-# G12_SQL_PowerBI

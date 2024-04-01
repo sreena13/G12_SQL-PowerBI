@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: (THEORY)     | [https://github.com/sure-trust/G12_SQL-PowerBI/tree/f4ecd26639fc2a31b4c744cba2f05c44df909993/Final%20Capstone%20Project/Sreena%20Mahesh](https://github.com/sure-trust/G12_SQL-PowerBI/tree/f4ecd26639fc2a31b4c744cba2f05c44df909993/Mini%20Projects/Sreena%20Mahesh) |                        |
-| Final Project: (DASHBOARD)     | https://github.com/sure-trust/G12_SQL-PowerBI/tree/4086cf041ba88d32123513fd3daf7a9ff92fa754/Final%20Capstone%20Project/Sreena%20Mahesh                       |
+| Mini Projects: (THEORY)     | [click here](https://github.com/sure-trust/G12_SQL-PowerBI/tree/f4ecd26639fc2a31b4c744cba2f05c44df909993/Final%20Capstone%20Project/Sreena%20Mahesh) |                        |
+| Final Project: (DASHBOARD)     |[click here](https://github.com/sure-trust/G12_SQL-PowerBI/tree/4086cf041ba88d32123513fd3daf7a9ff92fa754/Final%20Capstone%20Project/Sreena%20Mahesh)                      |
